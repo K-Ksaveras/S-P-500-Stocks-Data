@@ -18,6 +18,17 @@ Visualizations of stock trends
 
 Basic statistical insights
 
+🛠️ Tools & Technologies
+
+Python
+
+Pandas – data manipulation
+
+NumPy – numerical operations
+
+Matplotlib - data visualization
+
+Jupyter Notebook – analysis environment(colab)
 
 📊 Key Steps in the Analysis
 
